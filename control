@@ -1,0 +1,9 @@
+Package: com.tuttarealstep.iunlock
+Name: iUnlock
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Unlock iphone with any passcode!
+Maintainer: Stefano
+Author: Stefano
+Section: Tweaks
